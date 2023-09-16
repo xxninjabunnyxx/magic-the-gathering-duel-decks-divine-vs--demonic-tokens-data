@@ -1,0 +1,16 @@
+---
+object: set
+id: 4281ce5b-05ea-4ff1-a242-8c136cce5224
+code: tddc
+name: 'Duel Decks: Divine vs. Demonic Tokens'
+uri: https://api.scryfall.com/sets/4281ce5b-05ea-4ff1-a242-8c136cce5224
+scryfall_uri: https://scryfall.com/sets/tddc
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atddc&unique=prints
+released_at: '2009-04-10'
+set_type: token
+card_count: 3
+parent_set_code: ddc
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddc.svg?1694404800
